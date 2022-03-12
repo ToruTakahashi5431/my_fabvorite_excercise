@@ -1,3 +1,11 @@
+favorite foods
+==============
 Ramen
 Wine
 Sweet Potato
+
+favorite movies
+==============
+Back To The Future
+Baymax
+Imitation Game
